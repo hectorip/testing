@@ -1,4 +1,5 @@
 Learning Python Testing
 ----
 
-My practices learninng testing with python: unittest and Pytest
+Prácticas con Python aprendiendo Unit Test y PyTest.
+
